@@ -1,5 +1,5 @@
 {
-    "name": "admin/spring_gds_package",
+    "name": "spring/spring_gds_package",
     "description": "this is testing package",
     "type": "library",
     "license": "MIT",
