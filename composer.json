@@ -1,0 +1,19 @@
+{
+    "name": "admin/spring_gds_package",
+    "description": "this is testing package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shubham",
+            "email": "shubham@metricoidtech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spring\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
